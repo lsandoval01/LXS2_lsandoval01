@@ -1,0 +1,84 @@
+    1  ls
+    2  cd 
+    3  PING 8.8.8.8
+    4  ping 8.8.8.8
+    5  sudo apt-get install vim
+    6  sudo apt-get install tree
+    7  sudo apt-get install git
+    8  pwd
+    9  mkdir LXS_lsandoval01
+   10  mkdir tareas
+   11  mkdir src
+   12  mkdir misc
+   13  mkdir history
+   14  mkdir proyectos
+   15  ls
+   16  mv history LXS_lsandoval01/
+   17  cd LXS_lsandoval01/
+   18  ls
+   19  mv misc src tareas proyectos 
+   20  mv misc src tareas proyectos LXS_lsandoval01
+   21  ls
+   22  CD 
+   23  cd
+   24  mv misc src tareas proyectos LXS_lsandoval01
+   25  ls
+   26  cd LXS_lsandoval01/
+   27  ks
+   28  ls
+   29  mkdir scripts
+   30  ls
+   31  touch misc/file1 src/file1 tareas/file1
+   32  LS
+   33  ls
+   34  tree
+   35  vim .gitignore
+   36  ls
+   37  tree
+   38  git init
+   39  tree
+   40  git status
+   41  git add misc/
+   42  git add tareas/
+   43  git add src/
+   44  git add scripts/
+   45  git add proyectos
+   46  git add history/
+   47  git status
+   48  git add .gitignore 
+   49  ls
+   50  git status
+   51  git commit -m "Primer Commit"
+   52  git config -- global user.email "lsandova.610@gmail.com"
+   53  git config --global user.email "lsandova.610@gmail.com"
+   54  git config --global user.name "Luis Fernando Sandoval"
+   55  git commit -m "Primer Commit"
+   56  git remote add origin https://github.com/lsandoval01/LXS2_lsandoval01.git
+   57  git push -u origin master
+   58  git status
+   59  ls
+   60  git add
+   61  git add proyectos/
+   62  git status
+   63  cd 
+   64  ls
+   65  cd LXS_lsandoval01/
+   66  ls
+   67  cd pro
+   68  cd proyectos/
+   69  ls
+   70  mkdir LVM
+   71  ls
+   72  cd 
+   73  git status
+   74  git status LXS_lsandoval01/
+   75  ls
+   76  cd LXS_lsandoval01/
+   77  ls
+   78  git status
+   79  git add proyectos/
+   80  ls
+   81  git status
+   82  tree
+   83  cd history/
+   84  history >>clase1 
