@@ -1,0 +1,143 @@
+    1  yum update
+    2  pvsdisplay
+    3  fdisk -l
+    4  pv
+    5  display
+    6  pv
+    7  pvdisplay
+    8  fdisk -l
+    9  df -h
+   10  lsblk -fm
+   11  df -h
+   12  vgdisplay
+   13  lvdisplay
+   14  pvdisplay
+   15  exit
+   16  git init
+   17  git status
+   18  cd LXS2_lsandoval01/
+   19  cd 
+   20  cd LXS2
+   21  cd LXS2_lsandoval01/
+   22  ls
+   23  lsblk
+   24  pvdisplay
+   25  df -h
+   26  fdisk -l
+   27  lsblk
+   28  pvcreate /dev/sdb
+   29  pvdisplay
+   30  df -h
+   31  fdisk /dev/sdb
+   32  ls
+   33  cd LXS2_lsandoval01/
+   34  LS
+   35  ls
+   36  cd Pr
+   37  cd Proyecto/
+   38  cd 
+   39  lsblk
+   40  pvdisplay
+   41  vgcreate Proyecto /dev/sdb 
+   42  vgdisplay
+   43  lvdisplay
+   44  vg
+   45  vg man
+   46  vg
+   47  lvm
+   48  vgdisplay
+   49  pvdisplay
+   50  lvm
+   51  vgextend
+   52  vgextend --help
+   53  lvm
+   54  resize2fs /dev/centos/swap 
+   55  resize2fs /dev/centos/swap
+   56  resize2fs: Bad magic number in super-block while trying to open /dev/centos/swap
+   57  Couldn't find valid filesystem superblock.
+   58  lvextend -L+2GB /dev/centos/root
+   59  resize2fs /dev/centos/root
+   60  lvdisplay
+   61  cd LSX
+   62  ls 
+   63  cd LSX_lsandoval01
+   64  cd LXS2_lsandoval01/
+   65  ls
+   66  cd Proyecto/
+   67  history >> History_despues_de_agregar_el_hdd
+   68  git status
+   69  git init
+   70  git status
+   71  git  git push -u origin master
+   72  git commit -m "History_proyecto"
+   73  git  git push -u origin master
+   74  git init
+   75  cd 
+   76  cd LXS2_lsandoval01/
+   77  git status
+   78  git  git push -u origin master
+   79  git init
+   80  git commit -m "History_proyecto"
+   81  git add Proyecto
+   82  git add -f Proyecto
+   83  git commit -m "History_proyecto"
+   84  git  git push -u origin master
+   85  git config --global.user.name "Luis Fernando Sandoval"
+   86  git config --global.user.name "Luis Fernando Sandoval" 
+   87  git config -- global.user.name "Luis Fernando Sandoval" 
+   88  git config -- global.user.email "lsandova.610@gmail.com" 
+   89  git commit -m "History_proyecto"
+   90  git  git push -u origin master
+   91  git push -u origin master
+   92  cd Proyecto/
+   93  LS
+   94  ls
+   95  mv History_despues_de_agregar_el_hdd LVM
+   96  cd L
+   97  rm -rf Hisrory_despues_de_agregar_el_hdd
+   98  ls
+   99  cd LVM/
+  100  history >> History_agregar_HDD_final
+  101  cd 
+  102  cd LXS2_lsandoval01/
+  103  git status
+  104  git commit -m "History_proyecto1"
+  105  git push -u origin master
+  106  tree
+  107  git status
+  108  git push -u origin master
+  109  ls
+  110  cd Pr
+  111  cd Proyecto/
+  112  LS
+  113  ls
+  114  cd LVM/
+  115  ls
+  116  rm History_despues_de_agregar_el_hdd 
+  117  ls
+  118  cd 
+  119  cd LXS2_lsandoval01/
+  120  git status
+  121  git add Proyecto/
+  122  tree
+  123  git commit -m "History Final"
+  124  git push -u origin master
+  125  git status
+  126  tree
+  127  cd Proyecto/
+  128  LS
+  129  git status
+  130  git add
+  131  git add LVM
+  132  git status
+  133  git push -u origin master
+  134  git commit -m "History Final"
+  135  git push -u origin master
+  136  cd 
+  137  cd LXS2_lsandoval01/
+  138  git push -u origin master
+  139  git commit -m "History Final"
+  140  git push -u origin master
+  141  cd Proyecto/
+  142  cd LVM/
+  143  history >> ultimo_history
