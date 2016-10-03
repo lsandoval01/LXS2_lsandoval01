@@ -1,0 +1,67 @@
+    1  yum update
+    2  pvsdisplay
+    3  fdisk -l
+    4  pv
+    5  display
+    6  pv
+    7  pvdisplay
+    8  fdisk -l
+    9  df -h
+   10  lsblk -fm
+   11  df -h
+   12  ls
+   13  yum install git
+   14  git init
+   15  git clone git https://github.com/lsandoval01/LXS2_lsandoval01.git
+   16  git clone git //github.com/lsandoval01/LXS2_lsandoval01.git
+   17  git clone https://github.com/lsandoval01/LXS2_lsandoval01.git
+   18  cd tmp
+   19  ls 
+   20  cd L
+   21  cd LXS2_lsandoval01/
+   22  ls
+   23  mkdir Proyecto_LVM
+   24  git status
+   25  ls
+   26  rv Proyecto_LVM/
+   27  rm Proyecto_LVM/
+   28  LS
+   29  ls
+   30  rm
+   31  rm Proyecto_LVM/
+   32  ls
+   33  rm -rf Proyecto_LVM/
+   34  ls
+   35  mkdir Proyecto
+   36  cd Proyecto/
+   37  mkdir LVM
+   38  cd
+   39  ls
+   40  cd L
+   41  cd LXS2_lsandoval01/
+   42  ls
+   43  git status
+   44  ls
+   45  cd 
+   46  cd LXS2_lsandoval01/history/
+   47  cd 
+   48  cd LXS2_lsandoval01/Proyecto/
+   49  history >> Proyecto
+   50  ls
+   51  rm -rf Proyecto 
+   52  LS
+   53  ls
+   54  cd LVM/
+   55  cd 
+   56  pvdisplay
+   57  df -h
+   58  lsblk -fm
+   59  cd L
+   60  cd LXS2_lsandoval01/
+   61  LS
+   62  ls
+   63  cd Proyecto/
+   64  LS
+   65  ls
+   66  cd LVM/
+   67  history >> History_antes 
